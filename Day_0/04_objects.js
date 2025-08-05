@@ -1,6 +1,6 @@
 // Understanding Objects in JavaScript
 
-// An object is a collection of properties
+// An object is a collection of key-value pairs (also called properties).
 
 // Creating an Object
 const person = {
